@@ -1,7 +1,7 @@
 ### Comportamento
 - Como admitir erros e aceitar críticas sem levar para o lado pessoal.
 - Como calçar os sapatos do usuário, e tentar entender sua visão.
-- Quando pedir ajudar, quando não pedir ajuda.
+- Quando pedir ajuda, quando não pedir ajuda?
 - Como saber que você está fazendo, naquele momento, a coisa mais importante que deveria estar fazendo
 
 ### Código
